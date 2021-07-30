@@ -9,21 +9,22 @@
 </p>
 
 
-<p  <h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Ro-node" height="30" width="40" src=
- https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
+
+ <img align="center" alt="Ro-React" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
   <img align="center" alt="Ro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
- 
- 
+ <br/>
+ <br/>
 </div>
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/rosana-moreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosana-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosana-moreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
