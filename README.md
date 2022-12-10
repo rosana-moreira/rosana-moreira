@@ -1,5 +1,5 @@
 <h1 align="center"> Rosana Moreira</h1>
-<h3 align="center">Sou uma desenvolvedora full Stack junior! Aqui estou disponibilizando meus códigos de projetos pessoais de estudo e participações de eventos. 
+<h3 align="center">Olá, sou uma desenvolvedora full Stack junior! Aqui estou disponibilizando meus códigos de projetos pessoais de estudo e participações de eventos. 
   
   Fique a vontade! :)</h3>
 
