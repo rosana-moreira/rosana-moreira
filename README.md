@@ -12,8 +12,10 @@
 ### Linguagens e ferramentas:
 <div style="display: inline_block"><br>
  
-   <img align="center" alt="Ro-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-   <img align="center" alt="Ro-JAVA" src="https://img.shields.io/badge/-Servlets-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center" alt="Ro-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center" alt="Ro-JAVA" src="https://img.shields.io/badge/-Servlets-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center" alt="Ro-JAVA" src="https://img.shields.io/badge/-JSP-blueviolet?style=for-the-badge&logo=java&logoColor=white"/>
+   <img align="center" alt="Ro-JAVA" src="https://img.shields.io/badge/-SPRINGBOOT-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="Ro-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Ro-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img  align="center" alt="Ro-node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
